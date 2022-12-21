@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shuha-sheikh
+- 👀 I’m interested in mathematics & computer science
+- 🌱 I’m currently learning Java & Racket
