@@ -1,3 +1,7 @@
 - 👋 Hi, I’m @shuha-sheikh
-- 👀 I’m interested in mathematics, computer science & computer engineering.
-- 🌱 I’m currently learning C & Linux
+- 👀 I’m interested in mathematics, computer science & computer engineering (software & hardware).
+- 🧠 I'm innovative and devoted to achieving objectives.
+- 💪 I'm able to work under pressure and complete tasks efficiently and promptly.
+- 🎓 I'm pursuing a Bachelor’s degree in Computational Mathematics with a French minor at the University of Waterloo
+- 🌱 I’m currently learning Pandas & SQL
+- 🤖 I'm skilled in: Python, Java, C, MIPS + Shell Scripting, Excel, VBA, Power BI, HTML, CSS, MATLAB & AutoCAD (check out some of my projects!)
